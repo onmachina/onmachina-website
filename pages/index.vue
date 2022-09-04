@@ -3,6 +3,7 @@
     <Nav />
     <Hero />
     <Features />
+    <BuiltFor />
   </div>
 </template>
 
@@ -10,9 +11,10 @@
   import Nav from '../components/Nav.vue';
   import Hero from '../components/Hero.vue';
   import Features from '../components/Features.vue';
+  import BuiltFor from '../components/BuiltFor.vue';
 
   export default {
     name: "IndexPage",
-    components: { Nav, Hero, Features }
+    components: { Nav, Hero, Features, BuiltFor }
   }
 </script>
