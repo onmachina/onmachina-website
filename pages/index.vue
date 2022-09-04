@@ -1,9 +1,11 @@
 <template>
-  <div class="container mx-auto px-12 text-center">
+  <div class="container text-center">
     <Nav />
     <Hero />
     <Features />
     <BuiltFor />
+    <BottomCTA />
+    <Footer />
   </div>
 </template>
 
@@ -12,9 +14,10 @@
   import Hero from '../components/Hero.vue';
   import Features from '../components/Features.vue';
   import BuiltFor from '../components/BuiltFor.vue';
+  import BottomCTA from '../components/BottomCTA.vue';
 
   export default {
     name: "IndexPage",
-    components: { Nav, Hero, Features, BuiltFor }
+    components: { Nav, Hero, Features, BuiltFor, BottomCTA }
   }
 </script>

@@ -31,6 +31,16 @@ module.exports = {
       demi: 600,
       heavy: 700,
     },
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: '2rem',
+        sm: '3rem',
+        lg: '5rem',
+        xl: '6rem',
+        '2xl': '6rem',
+      },
+    },
     extend: {
       spacing: {
         '8xl': '96rem',
