@@ -28,7 +28,8 @@ export default {
     ],
     bodyAttrs: {
       class: 'bg-gradient-to-r from-darkblue-200 to-darkblue-500'
-    }
+    },
+    pwa: { icon: { source: '~/static/favicon.ico' } }
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
