@@ -8,7 +8,7 @@
     <p class="text-gray-400 mt-8 font-book">
       We are building <strong class="text-white font-demi">storage first</strong> <em>(resilience, availability, capacity, performance)</em>, <strong class="text-white font-demi">enhanced with blockchain</strong> <em>(decentralized, immutable, verified owner, permissionless)</em> to give control and ownership of data <strong class="text-white font-demi">back to individuals</strong> from the public cloud oligopolists.
     </p>
-    <form name="waitlist" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+    <form name="waitlist" method="POST" action="/thanks" netlify-honeypot="bot-field" data-netlify="true">
       <p class="text-white mt-12 font-book mb-4">
         Sign up for early access, updates and ways to get involved.
       </p>
