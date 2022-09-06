@@ -2,7 +2,7 @@
   <div class="py-20 w-full lg:w-3/5 mx-auto">
     <h3 class="text-white text-base font-medium mb-3">The world’s first</h3>
     <h1 class="text-5xl md:text-6xl text-white font-demi leading-none">
-      <span class="text-transparent bg-clip-text bg-gradient-to-r from-peach to-sea background-animate">Truly decentralized</span>
+      <span class="text-transparent bg-clip-text bg-gradient-to-r from-peach via-salmon to-sea background-animate">Truly decentralized</span>
       storage network
     </h1>
     <p class="text-gray-400 mt-8 font-book">
