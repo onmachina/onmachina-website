@@ -1,7 +1,7 @@
 <template>
   <section class="mt-32">
     <h2 class="text-white font-demi text-5xl">Better Storage</h2>
-    <div class="grid gap-8 grid-cols-1 md:grid-cols-2 grid-rows-2 mt-20 mx-0 xl:mx-12">
+    <div class="grid gap-8 grid-cols-1 md:grid-cols-2 grid-rows-2 mt-16 md:mt-20 mx-0 xl:mx-12">
       <article class="bg-darkblue-700 rounded text-center p-4 feature-card opacity-0">
         <div class="bg-darkblue-800 rounded w-full h-full p-8">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#F4879E" class="w-10 h-10 mx-auto mb-4">

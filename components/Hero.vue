@@ -7,7 +7,7 @@
     <p class="text-gray-400 mt-12 text-xl font-book w-full md:w-3/4 mx-auto">
       We’re building <strong class="text-white font-medium">OnMachina: the decentralized storage network</strong> to deliver reliable and scalable storage, with true ownership and control.
     </p>
-    <JoinForm class="mt-20 w-4/5 md:w-10/12 lg:w-3/4 mx-auto" />
+    <JoinForm class="mt-20 w-full sm:w-3/4 md:w-10/12 lg:w-3/4 mx-auto" />
   </div>
 </template>
 
