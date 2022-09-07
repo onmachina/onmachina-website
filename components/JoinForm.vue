@@ -1,7 +1,7 @@
 <template>
   <section>
     <form name="waitlist" method="POST" action="/thanks" netlify-honeypot="bot-field" data-netlify="true">
-      <p class="text-white font-book mb-4">
+      <p class="text-gray-300 text-xl font-book mb-2">
         Sign up for early access
       </p>
       <div class="relative w-full md:w-3/5 mx-auto">
@@ -12,7 +12,7 @@
         </button>
         <input type="hidden" name="form-name" value="waitlist" />
         <div class="p-2 bg-darkblue-800 rounded-full transition-all ease-in-out" :class="{ graded: focused }">
-          <input class="w-full py-4 px-4 rounded-full text-sm placeholder-gray-500 bg-white focus:outline-none" type="email" name="email" placeholder="Add your email address"
+          <input class="w-full py-4 px-4 rounded-full text-sm placeholder-gray-500 bg-white focus:outline-none" type="email" name="email" placeholder="Email address"
           @focus="focused = true"
           @blur="focused = false"
           />

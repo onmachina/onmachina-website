@@ -8,7 +8,7 @@
       storage
     </p>
     <p class="mt-12 text-sm text-gray-200">
-      &copy; Copyright {{currentDate.getFullYear()}}, OnMachina Association ®
+      &copy; Copyright {{currentDate.getFullYear()}}, OnMachina Association™
     </p>
   </footer>
 </template>
