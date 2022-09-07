@@ -9,8 +9,8 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
           </svg>
 
-          <h4 class="text-gray-400 font-medium mb-4">Open Source tooling</h4>
-          <p class="text-white font-medium leading-tight w-3/5 mx-auto"> Nice and easy, developer-friendly API, 100% Open Source Protocol</p>
+          <h4 class="text-gray-400 font-medium mb-4">Open Source</h4>
+          <p class="text-white font-medium leading-tight w-4/5 mx-auto">Developer-friendly API, 100% Open Source Protocol</p>
         </div>
       </article>
       <article class="bg-darkblue-700 rounded text-center p-4 feature-card opacity-0">
@@ -19,7 +19,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 13.5V3.75m0 9.75a1.5 1.5 0 010 3m0-3a1.5 1.5 0 000 3m0 3.75V16.5m12-3V3.75m0 9.75a1.5 1.5 0 010 3m0-3a1.5 1.5 0 000 3m0 3.75V16.5m-6-9V3.75m0 3.75a1.5 1.5 0 010 3m0-3a1.5 1.5 0 000 3m0 9.75V10.5" />
           </svg>
           <h4 class="text-gray-400 font-medium mb-4">Predictable Pricing</h4>
-          <p class="text-white font-medium leading-tight w-3/5 mx-auto">Predictable pricing model, paid in stable-coins</p>
+          <p class="text-white font-medium leading-tight w-4/5 mx-auto">Predictable pricing model, paid in stable-coins</p>
         </div>
       </article>
       <article class="bg-darkblue-700 rounded text-center p-4 feature-card opacity-0">
@@ -29,7 +29,7 @@
           </svg>
 
           <h4 class="text-gray-400 font-medium mb-4">Tangible infrastructure</h4>
-          <p class="text-white font-medium leading-tight w-3/5 mx-auto">Real infrastructure, no DeFi, BS tokens and scams</p>
+          <p class="text-white font-medium leading-tight w-4/5 mx-auto">The reliability of hyperscale cloud storage, infused with blockchain to give you true ownership and control of your data</p>
         </div>
       </article>
       <article class="bg-darkblue-700 rounded text-center p-4 feature-card opacity-0">
@@ -38,8 +38,8 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" />
           </svg>
 
-          <h4 class="text-gray-400 font-medium mb-4">Sustainable participation</h4>
-          <p class="text-white font-medium leading-tight w-3/5 mx-auto">Sustainable token economics to incentivize everlasting participation rather than first-comers advantage</p>
+          <h4 class="text-gray-400 font-medium mb-4">Sustainable tokenomics</h4>
+          <p class="text-white font-medium leading-tight w-4/5 mx-auto">Owned and operated by a global network of node operators to provides universally accessible, censorship resistant storage</p>
         </div>
       </article>
     </div>

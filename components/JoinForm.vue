@@ -2,7 +2,7 @@
   <section>
     <form name="waitlist" method="POST" action="/thanks" netlify-honeypot="bot-field" data-netlify="true">
       <p class="text-white font-book mb-4">
-        Sign up for early access, updates and ways to get involved.
+        Sign up for early access
       </p>
       <div class="relative w-full md:w-3/5 mx-auto">
         <button type="submit" class="absolute right-6 rounded-full p-3" style="top:15%; right: 11px">
