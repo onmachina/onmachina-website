@@ -9,7 +9,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
           </svg>
 
-          <h4 class="text-gray-400 font-medium mb-4">Open Source</h4>
+          <h4 class="text-gray-400 text-xl font-demi mb-4">Open Source</h4>
           <p class="text-white font-medium leading-tight w-4/5 mx-auto">Developer-friendly API, 100% Open Source Protocol</p>
         </div>
       </article>
@@ -18,7 +18,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#FFAA00" class="w-10 h-10 mx-auto mb-4">
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 13.5V3.75m0 9.75a1.5 1.5 0 010 3m0-3a1.5 1.5 0 000 3m0 3.75V16.5m12-3V3.75m0 9.75a1.5 1.5 0 010 3m0-3a1.5 1.5 0 000 3m0 3.75V16.5m-6-9V3.75m0 3.75a1.5 1.5 0 010 3m0-3a1.5 1.5 0 000 3m0 9.75V10.5" />
           </svg>
-          <h4 class="text-gray-400 font-medium mb-4">Predictable Pricing</h4>
+          <h4 class="text-gray-400 text-xl font-demi mb-4">Predictable Pricing</h4>
           <p class="text-white font-medium leading-tight w-4/5 mx-auto">Predictable pricing model, paid in stable-coins</p>
         </div>
       </article>
@@ -28,7 +28,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M5.25 14.25h13.5m-13.5 0a3 3 0 01-3-3m3 3a3 3 0 100 6h13.5a3 3 0 100-6m-16.5-3a3 3 0 013-3h13.5a3 3 0 013 3m-19.5 0a4.5 4.5 0 01.9-2.7L5.737 5.1a3.375 3.375 0 012.7-1.35h7.126c1.062 0 2.062.5 2.7 1.35l2.587 3.45a4.5 4.5 0 01.9 2.7m0 0a3 3 0 01-3 3m0 3h.008v.008h-.008v-.008zm0-6h.008v.008h-.008v-.008zm-3 6h.008v.008h-.008v-.008zm0-6h.008v.008h-.008v-.008z" />
           </svg>
 
-          <h4 class="text-gray-400 font-medium mb-4">Tangible infrastructure</h4>
+          <h4 class="text-gray-400 text-xl font-demi mb-4">Tangible Infrastructure</h4>
           <p class="text-white font-medium leading-tight w-4/5 mx-auto">The reliability of hyperscale cloud storage, infused with blockchain to give you true ownership and control of your data</p>
         </div>
       </article>
@@ -38,7 +38,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" />
           </svg>
 
-          <h4 class="text-gray-400 font-medium mb-4">Sustainable tokenomics</h4>
+          <h4 class="text-gray-400 text-xl font-demi mb-4">Sustainable Tokenomics</h4>
           <p class="text-white font-medium leading-tight w-4/5 mx-auto">Owned and operated by a global network of node operators to provides universally accessible, censorship resistant storage</p>
         </div>
       </article>
