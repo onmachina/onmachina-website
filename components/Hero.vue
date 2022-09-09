@@ -5,7 +5,7 @@
     </h1>
     <p class="text-xl lg:text-2xl xl:text-3xl text-white mt-2 font-book">Stop giving yours to the centralized cloud oligopoly</p>
     <p class="text-gray-400 mt-12 text-xl font-book w-full md:w-3/4 mx-auto">
-      We’re building <strong class="text-white font-medium">OnMachina: the decentralized storage network</strong> to deliver reliable and scalable storage, with true ownership and control.
+      We’re building <strong class="text-white font-medium">OnMachina™: the decentralized storage network</strong> to deliver reliable and scalable storage, with true ownership and control.
     </p>
     <JoinForm class="mt-20 w-full sm:w-3/4 md:w-10/12 lg:w-3/4 mx-auto" />
   </div>
