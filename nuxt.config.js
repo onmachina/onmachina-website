@@ -14,7 +14,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'description', content: 'OnMachina is storage first, enhanced with blockchain, to give control and ownership of data back to individuals from the public cloud oligopolists.' },
+      { name: 'description', content: 'We are building OnMachina: the decentralized storage network to deliver reliable and scalable storage, with true ownership and control.' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
