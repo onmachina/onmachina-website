@@ -39,7 +39,7 @@
           </svg>
 
           <h4 class="text-gray-400 text-xl font-demi mb-4">Sustainable Tokenomics</h4>
-          <p class="text-white font-medium leading-tight w-4/5 mx-auto">Owned and operated by a global network of node operators to provides universally accessible, censorship resistant storage</p>
+          <p class="text-white font-medium leading-tight w-4/5 mx-auto">Owned and operated by a global network of node operators to provide universally accessible, censorship resistant storage</p>
         </div>
       </article>
     </div>
